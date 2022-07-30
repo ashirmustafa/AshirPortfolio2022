@@ -3,7 +3,9 @@ import './Contact.css'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+      <div className="contact__heading"></div>
+    </div>
   )
 }
 

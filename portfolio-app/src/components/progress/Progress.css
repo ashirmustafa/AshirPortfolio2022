@@ -1,0 +1,21 @@
+.progress__container {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  background-color: var(--first-color);
+  display: flex;
+  justify-content: space-around;
+}
+
+.progress__box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-size: 90px;
+  color: var(--body-color);
+  flex-direction: column;
+  align-items: center;
+}
+
+.progress__title {
+  font-size: 24px;
+}/*# sourceMappingURL=Progress.css.map */

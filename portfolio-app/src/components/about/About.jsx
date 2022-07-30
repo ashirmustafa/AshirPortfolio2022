@@ -19,7 +19,7 @@ const About = () => {
           <div className="about__skills gird">
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">HTML5</div>
+                <div className="HTML5">HTML5</div>
                 <span className="skills__number">90%</span>
               </div>
 
@@ -30,7 +30,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">CSS3</div>
+                <div className="CSS3">CSS3</div>
                 <span className="skills__number">80%</span>
               </div>
 
@@ -41,7 +41,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">JAVASCRIPT</div>
+                <div className="JAVASCRIPT">JAVASCRIPT</div>
                 <span className="skills__number">65%</span>
               </div>
 
@@ -52,7 +52,7 @@ const About = () => {
             
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">BOOTSTRAP</div>
+                <div className="BOOTSTRAP">BOOTSTRAP</div>
                 <span className="skills__number">60%</span>
               </div>
 
@@ -63,7 +63,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">REACT JS</div>
+                <div className="REACTJS">REACT JS</div>
                 <span className="skills__number">50%</span>
               </div>
 
@@ -74,7 +74,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <div className="skills__name">AFTER EFFECTS</div>
+                <div className="AFTEREFFECTS">AFTER EFFECTS</div>
                 <span className="skills__number">70%</span>
               </div>
 

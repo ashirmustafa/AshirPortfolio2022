@@ -5,11 +5,12 @@
 /* ===========VARIABLES CSS START============== */
 :root{
   /* colors */
-  --first-color: hsl(352,100%,65%);
+  --first-color: rgb(135, 57, 250);
   --title-color: hsl(244,24%,26%);
   --text-color: hsl(244,16%,43%);
   --body-color: hsl(258,60%,98%);
   --container-color: #fff;
+  --item-hover: hsl(264°, 95%, 60%);
 
   /* font and typography */
   --body-font: 'Rubik', sans-serif;

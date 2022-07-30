@@ -1,10 +1,17 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import './Sidebar.css'
 import Logo from '../../assets/logo.svg';
+import AOS from 'aos'
+import "aos/dist/aos.css";
+
 
 const Sidebar = () => {
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
   return (
-    <aside className='aside'>
+    <aside className='aside' data-aos={"fade-right"} data-aos-duration={1000} data-aos-offset={10}>
       <a href='#home' className='nav__logo'>
         <img src={Logo} alt="" />
       </a>
